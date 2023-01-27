@@ -1,4 +1,4 @@
-# FFDraft
+# The Players Lounge
 Flatiron Phase 5 Final Project
 React.js frontend // Ruby on Rails backend
 
